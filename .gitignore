@@ -153,3 +153,5 @@ cython_debug/
 
 
 test.ipynb
+AmesHousing_all.csv
+temp.ipynb
